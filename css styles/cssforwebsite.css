@@ -110,7 +110,7 @@ nav ul li {
     height: 100%;
   }
 }
-@media screen and (max-width:479px){
+@media screen and (max-width:356px){
   .content h1{
     margin-top: 40%;
   }
